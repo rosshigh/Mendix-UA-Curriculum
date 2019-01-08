@@ -1,0 +1,21 @@
+S/4 HANA GBI
+
+URI: http://s43.ucc.uwm.edu/sap/opu/odata/sap/SD_F1814_SO_FS_SRV
+Username: GBI-002
+Password: Password1
+Client: 402
+
+
+ERPSim on S/4
+
+URI: http://twister.ucc.uwm.edu:8001/ERPsim/OData/erpsim.xsodata
+Username: 417A
+Password: ERPSIM1
+Client: 417
+
+
+HANA
+
+URI: http://hn3.hana3.ucc.uwm.edu:8000/GBI_300/gbi/data/gbi.xsodata
+Username: GBI_300
+Password: Password1
